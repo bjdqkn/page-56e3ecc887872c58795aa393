@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "72d93c103f117b68829c36d1",
+  "owner": "bjdqkn",
+  "repo": "page-56e3ecc887872c58795aa393",
+  "title": "MeiYing",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "56e3ecc887872c58795aa393",
+      "a": "MeiYing",
+      "b": "机场官网线路发布页",
+      "entity": "MeiYing",
+      "brand": "MeiYing",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "34baedfa71919bda3703e1f2a50f7e9509cbb15e76d9cf8e94aa7eb8eb7b038f",
+      "content": {
+        "primary_entity": "MeiYing",
+        "keyword1": "MeiYing",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，MeiYing 提供基础版、旗舰版与团队版三档订阅，月付分别为 ¥15、¥35 与 ¥85，按年付可享 ¥150/年、¥350/年与 ¥850/年。流量从每月 100GB、300GB 到 1000GB 逐级提升，同时在线设备数量覆盖 3 台、5 台与 20 台，旗舰版搭载 IPLC 专线与原生流媒体解锁，团队版面向多设备场景提供 VIP 高带宽节点。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备用量",
+          "AI_HERO_INTRO": "MeiYing 面向跨境访问场景，提供多档订阅套餐与多种客户端配置方式。选择套餐时可先确认需要同时在线的设备数量，再对照每月流量需求，最后结合订阅周期决定。基础版适合少量设备，旗舰版与团队版面向更高并发与更大流量场景。",
+          "AI_VISUAL_TITLE": "MeiYing 套餐与线路选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版搭载 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "按年付可享对应折扣价格",
+          "AI_FEATURES_TITLE": "选择 MeiYing 套餐的三个关注点",
+          "AI_FEATURES_INTRO": "从设备数量、流量用量与订阅周期三个角度比较套餐，可以更快确定适合的档位。",
+          "AI_FEATURE_TITLE_1": "按设备数量选择",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，先确认需要同时在线的设备总数。",
+          "AI_FEATURE_TITLE_2": "按每月流量选择",
+          "AI_FEATURE_TEXT_2": "100GB、300GB 与 1000GB 三档月流量，日常浏览与高清视频用量差异较大，按实际需求匹配。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付对应 ¥150、¥350 与 ¥850 的年费价格，长期使用可优先考虑年付。",
+          "AI_PLANS_TITLE": "MeiYing 套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别为 ¥150/年、¥350/年与 ¥850/年。旗舰版额外提供全节点原生流媒体解锁与 IPLC 专线，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备需要安装对应的客户端。Windows、macOS、Android、iOS 以及路由器等平台各有常见的订阅导入方式，配置时请参照客户端自身的文档与界面提示完成添加。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "选好档位、确认设备数量、准备对应客户端，是开始使用 MeiYing 前需要理清的三件事。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看设备适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_STEP_TEXT_1": "根据同时在线的设备数量与每月流量需求，在基础版、旗舰版与团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "确认常用设备数量与系统类型，检查所选套餐的在线设备上限是否满足，再准备对应客户端。",
+          "AI_STEP_TEXT_3": "在客户端中依照文档导入订阅信息，完成节点添加后即可连接使用。",
+          "AI_FAQ_TITLE": "MeiYing 常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与套餐选择。",
+          "AI_FAQ_QUESTION_1": "MeiYing 的套餐如何按设备数量选择？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版为 20 台。先统计日常需要同时在线的手机、电脑等设备总数，再选择对应档位，避免超出上限。",
+          "AI_FAQ_QUESTION_2": "月付和年付在价格上有区别吗？",
+          "AI_FAQ_ANSWER_2": "月付分别为 ¥15、¥35 与 ¥85；按年付则对应 ¥150/年、¥350/年与 ¥850/年。长期使用场景下，年付方式折算到每月的成本更低，适合稳定的日常使用。",
+          "AI_FAQ_QUESTION_3": "旗舰版和团队版的主要差异是什么？",
+          "AI_FAQ_ANSWER_3": "旗舰版每月 300GB 流量，支持 5 台设备，含全节点原生流媒体解锁与 IPLC 专线。团队版流量提升至每月 1000GB，支持 20 台设备，并提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_QUESTION_4": "如何在客户端中导入订阅？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅或配置导入入口，依照客户端文档的步骤添加订阅信息，完成节点加载后即可连接。不同系统的操作位置有所差别，以客户端界面提示为准。",
+          "AI_FAQ_QUESTION_5": "多设备同时使用需要注意什么？",
+          "AI_FAQ_ANSWER_5": "注意所选套餐的在线设备上限，基础版 3 台、旗舰版 5 台、团队版 20 台。若家庭或团队多人使用，可优先考虑设备数量更多的团队版，减少超出限制的情况。",
+          "AI_CLOSING_TITLE": "选对套餐，按需使用",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求确定档位后，按客户端文档完成订阅配置即可开始使用 MeiYing。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nnnnmn.cn",
+    "host": "nnnnmn.cn"
+  },
+  "file_hashes": {
+    "index.html": "cad9bf07ac6de907681bb7c8966bdd46e9364ae609ab2263bd45d0e12b32dfa8",
+    "sitemap.xml": "43eeda26a11f5880bf1daeccbe29e86909d214ab3b1d82d4fc7669d09bc577db",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "212b9cbb35c9ec792de453d5b4c24964a23d1ee0873d89ae789e0280d42d62dd",
+    "robots.txt": "f5b7f1fabf31d5529035b5e310c80a6fcedb77308edc7e2e8478d5ea39fba95a",
+    "e11e5e5e2c9bd5af124396dc84c8b969.txt": "7d92dc78f0f069654f45a7eef28031630bc9f741552ab71b3c920e696ddc6d46"
+  },
+  "revision": "459f6d27d6a1a1cd885c673922f9f0dec5711c2c8e8aeca0e5c95c0edb041cdc"
+}
